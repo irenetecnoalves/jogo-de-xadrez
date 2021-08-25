@@ -1,0 +1,13 @@
+C:\Users\Irene Alves\Desktop\jogodexadrez\bin\Debug\netcoreapp3.1\jogodexadrez.exe
+C:\Users\Irene Alves\Desktop\jogodexadrez\bin\Debug\netcoreapp3.1\jogodexadrez.deps.json
+C:\Users\Irene Alves\Desktop\jogodexadrez\bin\Debug\netcoreapp3.1\jogodexadrez.runtimeconfig.json
+C:\Users\Irene Alves\Desktop\jogodexadrez\bin\Debug\netcoreapp3.1\jogodexadrez.runtimeconfig.dev.json
+C:\Users\Irene Alves\Desktop\jogodexadrez\bin\Debug\netcoreapp3.1\jogodexadrez.dll
+C:\Users\Irene Alves\Desktop\jogodexadrez\bin\Debug\netcoreapp3.1\jogodexadrez.pdb
+C:\Users\Irene Alves\Desktop\jogodexadrez\obj\Debug\netcoreapp3.1\jogodexadrez.csprojAssemblyReference.cache
+C:\Users\Irene Alves\Desktop\jogodexadrez\obj\Debug\netcoreapp3.1\jogodexadrez.AssemblyInfoInputs.cache
+C:\Users\Irene Alves\Desktop\jogodexadrez\obj\Debug\netcoreapp3.1\jogodexadrez.AssemblyInfo.cs
+C:\Users\Irene Alves\Desktop\jogodexadrez\obj\Debug\netcoreapp3.1\jogodexadrez.csproj.CoreCompileInputs.cache
+C:\Users\Irene Alves\Desktop\jogodexadrez\obj\Debug\netcoreapp3.1\jogodexadrez.dll
+C:\Users\Irene Alves\Desktop\jogodexadrez\obj\Debug\netcoreapp3.1\jogodexadrez.pdb
+C:\Users\Irene Alves\Desktop\jogodexadrez\obj\Debug\netcoreapp3.1\jogodexadrez.genruntimeconfig.cache
